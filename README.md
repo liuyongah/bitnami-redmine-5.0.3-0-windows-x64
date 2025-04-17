@@ -5,6 +5,7 @@ https://softpedia-secure-download.com/dl/b85b7bf298f4c00046e0ac420fdfe47e/67fca8
 
 简单一键安装还是使用Docker更方便。
 
+https://redmine.ruby-lang.org.cn/projects/redmine/wiki/Download#Third-party-Redmine-bundles
 
 下面是 使用 ISO 镜像安装 TurnKey Redmine 的完整步骤教程（适用于 VirtualBox，也适用于实体机/其他虚拟化平台）：
 
